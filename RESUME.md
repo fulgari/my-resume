@@ -9,8 +9,8 @@
 # 个人信息
 
  - 潘子俊/男/1996 
- - 本科/华南理工大学/电子科学与技术（电子材料与元器件）
  - 硕士/南特大学综合理工学院（法国）/多媒体系统和网络技术
+ - 本科/华南理工大学/电子科学与技术（电子材料与元器件）
  - 工作年限：2年
  - 技术博客：http://pzij.github.io 
  - Github：http://github.com/pzij
@@ -38,27 +38,26 @@
 - H5 用户标签可视化展示/React/Trip Hackathon 铜奖 2021-10-29
 - 讲师积分统计和兑换系统/React/程长营入职项目 一等奖 2021-01-28
 
-<!--   
-## JKL公司 （ 2010年3月 ~ 2012年8月 ）
 
-### MNO项目 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
- -->
+## 法国雷恩SpikeeLabs公司 （ 2020年3月 ~ 2020年8月 ）
 
-  
-  
+### 实习项目 
+
+我在此项目中负责前端显示页面的研究和开发、页面与 API 的信息传输和过滤、API 与 Mongo/Cassandra 数据库的连接和对数据的处理，在这个过程中我熟悉了 Flask/Angular/ELK/Cassandra 等内容。
+
 # 开源项目和作品
 
 ## 开源项目
 
-  - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
-  - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+  - [Bera](https://github.com/pzij/bera-frontend)：一个以周为单位的日历应用
+  - [Sol](https://github.com/pzij/sol)：一个移动端待办清单应用
 
 ## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
+- [Webpack 插件龙虎榜](https://juejin.cn/post/7137689763208757261)
+- [从 Slate 的内置特性到洋葱模型](https://juejin.cn/post/7086816312789794846)
+- [Slate.js 之 Operation 概述](https://juejin.cn/post/7034480408888770567)
+- [Next.js 学习笔记](https://juejin.cn/post/6909048942869266440)
 
     
 # 技能清单
@@ -69,7 +68,7 @@
 - Web框架：Express/Koa/Flask
 - 前端框架：React/Redux/Preact/Slate/Vue
 - 前端工具：Webpack/Rollup/ESBuild/Babel/SaSS/LeSS/Tailwind/AntDesign
-- 数据库相关：MySQL/SQLServer/Ceph/Cassandra/SQLite
+- 数据库相关：MySQL/SQLServer/Ceph/Cassandra/SQLite/Mongo
 - 版本管理、文档和自动化部署工具：Git
 - 测试框架：Jest/Cypress
       
