@@ -30,26 +30,26 @@
 
 ### 支持协同的富文本编辑器 Tripdocs-SDK 项目
 
-我在此项目中负责了基于 Slate.js 的 Tripdocs-SDK 的功能开发、缺陷修复和 TS 工作，在开发表格、评论等功能组件的过程中 React 技术成长快速，并了解富文本编辑器的实现原理。这个项目中，我最困难的问题是在编辑器的崩溃和白屏现象，我采取了错误边界防止异常扩散、自动回退最后操作防止崩溃、埋点记录分析等措施，大幅降低了白屏率。项目中我最自豪的技术细节是提出了 Web Worker 校验器机制并开发了配套的 Webpack 插件，通过后台开辟线程递归遍历文档内容，结合规范化使用，对结构错误的文档能够无缝地实现“后台校验+自动修复”，大幅减少了报错率。通过该机制能够对内容已经损坏的文档进行热修复，得到了同事的好评。
+我在此项目中负责了基于 Slate.js 的 Tripdocs-SDK 的功能开发、缺陷修复和 TS 工作，在开发表格、评论等十多种功能组件的过程中 React 技术成长快速，并了解富文本编辑器的实现原理。这个项目中，我最困难的问题是在编辑器的崩溃和白屏现象，我采取了错误边界防止异常扩散、自动回退最后操作防止崩溃、UBT 埋点记录分析等措施，大幅降低了白屏率。项目中我最自豪的技术细节是提出了 Web Worker 校验器机制并开发了配套的 Webpack 插件，通过后台开辟线程递归遍历文档内容，结合规范化使用，对结构错误的文档能够无缝地实现“后台校验+自动修复”，大幅减少了报错率。通过该机制能够对内容已经损坏的文档进行热修复，得到了同事的好评。
 
 ### 其他项目
 
-（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+- 智慧出行小管家/Taro+React+微信小程序开发/微创新训练营 季军 2022-01-06
+- H5 用户标签可视化展示/React/Trip Hackathon 铜奖 2021-10-29
+- 讲师积分统计和兑换系统/React/程长营入职项目 一等奖 2021-01-28
 
-  
+<!--   
 ## JKL公司 （ 2010年3月 ~ 2012年8月 ）
 
 ### MNO项目 
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
+ -->
 
   
   
 # 开源项目和作品
-（这一段用于放置工作以外的、可证明你的能力的材料）
 
 ## 开源项目
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
 
   - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
   - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
@@ -60,24 +60,16 @@
 - [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
 - [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
 
-## 演讲和讲义
-（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
-
-  - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://ftqq.com)
-  - 9月公司内部分享：[云计算的前生今世](http://ftqq.com)
-    
     
 # 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
 
 以下均为我熟练使用的技能
 
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+- Web开发：Typescript/Javascript/Node
+- Web框架：Express/Koa/Flask
+- 前端框架：React/Redux/Preact/Slate/Vue
+- 前端工具：Webpack/Rollup/ESBuild/Babel/SaSS/LeSS/Tailwind/AntDesign
+- 数据库相关：MySQL/SQLServer/Ceph/Cassandra/SQLite
+- 版本管理、文档和自动化部署工具：Git
+- 测试框架：Jest/Cypress
       
