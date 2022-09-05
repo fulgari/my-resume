@@ -44,13 +44,13 @@
 ### 实习项目 
 
 我在此项目中负责前端显示页面的研究和开发、页面与 API 的信息传输和过滤、API 与 Mongo/Cassandra 数据库的连接和对数据的处理，在这个过程中我熟悉了 Flask/Angular/ELK/Cassandra 等内容。
-
+<!-- 
 # 开源项目和作品
 
 ## 开源项目
 
   - [Bera](https://github.com/pzij/bera-frontend)：一个以周为单位的日历应用
-  - [Sol](https://github.com/pzij/sol)：一个移动端待办清单应用
+  - [Sol](https://github.com/pzij/sol)：一个移动端待办清单应用 -->
 
 ## 技术文章
 
