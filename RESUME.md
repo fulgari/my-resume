@@ -43,7 +43,7 @@
 
 ### 实习项目 
 
-我在此项目中负责前端显示页面的研究和开发、页面与 API 的信息传输和过滤、API 与 Mongo/Cassandra 数据库的连接和对数据的处理，在这个过程中我熟悉了 Flask/Angular/ELK/Cassandra 等内容。
+我在此项目中负责前端显示页面的研究和开发、页面与 API 的信息传输和过滤、API 与 Mongo/Cassandra 数据库的连接和对数据的处理，在这个过程中我熟悉了 Docker/Flask/Angular/ELK/Cassandra 等内容。
 <!-- 
 # 开源项目和作品
 
@@ -67,7 +67,7 @@
 - Web开发：Typescript/Javascript/Node
 - Web框架：Express/Koa/Flask
 - 前端框架：React/Redux/Preact/Slate/Vue
-- 前端工具：Webpack/Rollup/ESBuild/Babel/SaSS/LeSS/Tailwind/AntDesign
+- 前端工具：Webpack/Rollup/ESBuild/Babel/SaSS/LeSS/Tailwind/AntDesign/Docker
 - 数据库相关：MySQL/SQLServer/Ceph/Cassandra/SQLite/Mongo
 - 版本管理、文档和自动化部署工具：Git
 - 测试框架：Jest/Cypress
